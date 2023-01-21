@@ -68,6 +68,3 @@ You can test the integration by sending GET requests to the URLs that trigger th
 
 Events in JSON format.
 
-### Video
-
-https://user-images.githubusercontent.com/110348583/213865544-e1c29bf4-294a-45d8-b574-27dc678cb92a.mp4
