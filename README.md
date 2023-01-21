@@ -61,8 +61,7 @@ curl -X GET http://localhost:8000/rest/v1/calendar/redirect/
 [Google Calendar API](https://console.cloud.google.com/marketplace/product/google/calendar-json.googleapis.com?q=search&referrer=search&project=calendarapi-375408&supportedpurview=project) - API used  
 
 
-https://user-images.githubusercontent.com/110348583/213865544-e1c29bf4-294a-45d8-b574-27dc678cb92a.mp4
-
 
 ### Video
 
+https://user-images.githubusercontent.com/110348583/213865544-e1c29bf4-294a-45d8-b574-27dc678cb92a.mp4
