@@ -52,3 +52,10 @@ You can test the integration by sending GET requests to the URLs that trigger th
 curl -X GET http://localhost:8000/rest/v1/calendar/redirect/
 
 6. You can also test this by using `postman` by sending the GET request to the above url
+  
+### Built With
+[Django](https://www.djangoproject.com/) - The web framework used
+
+[Python](https://www.python.org/) - Programming language
+
+[Google Calendar API](https://console.cloud.google.com/marketplace/product/google/calendar-json.googleapis.com?q=search&referrer=search&project=calendarapi-375408&supportedpurview=project) - API used  
