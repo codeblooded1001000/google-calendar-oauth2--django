@@ -48,10 +48,6 @@ You can test the integration by sending GET requests to the URLs that trigger th
 
 4. The view will handle the redirect request, get the access_token, and get the list of events in the user's calendar. The view will return the list of events in the response in json format.
 
-5. You can use a tool like `curl` or `httpie` to test the endpoint and check the response. for example:
-curl -X GET http://localhost:8000/rest/v1/calendar/redirect/
-
-6. You can also test this by using `postman` by sending the GET request to the above url
   
 ### Built With
 [Django](https://www.djangoproject.com/) - The web framework used
