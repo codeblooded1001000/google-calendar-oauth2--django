@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 `git clone https://github.com/<your-username>/google-calendar-django-rest-api.git`
 
 2. Create a virtual environment and activate it
-`python -m venv myenv
+`python3 -m venv myenv
 source myenv/bin/activate`
 
 3. Install the dependencies
@@ -34,7 +34,7 @@ source myenv/bin/activate`
 7. Set the url for the views in your `urls.py` file.
 
 8. Start the development server
-`python manage.py runserver`
+`python3 manage.py runserver`
 
 ### Testing the integration
 
