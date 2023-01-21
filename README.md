@@ -29,12 +29,12 @@ source myenv/bin/activate`
 
 5. In the developer console, navigate to the `Credentials` page, create a new OAuth client ID, and specify authorized redirect URIs.
 
-6. Set the client_id, client_secret, and redirect_uri in the settings.py file.
+6. Set the client_id, client_secret, and redirect_uri in the `settings.py` file.
 
-7. Set the url for the views in your urls.py file.
+7. Set the url for the views in your `urls.py` file.
 
 8. Start the development server
-python manage.py runserver
+`python manage.py runserver`
 
 ### Testing the integration
 
