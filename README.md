@@ -16,14 +16,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository
-git clone https://github.com/<your-username>/google-calendar-django-rest-api.git
+`git clone https://github.com/<your-username>/google-calendar-django-rest-api.git`
 
 2. Create a virtual environment and activate it
-python -m venv myenv
-source myenv/bin/activate
+`python -m venv myenv
+source myenv/bin/activate`
 
 3. Install the dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 4. Create a project in the [Google developer console](https://console.developers.google.com/) and enable the Google Calendar API.
 
@@ -66,9 +66,11 @@ curl -X GET http://localhost:8000/rest/v1/calendar/redirect/
   
   <img width="1470" alt="Screenshot 2023-01-21 at 5 22 15 PM" src="https://user-images.githubusercontent.com/110348583/213865673-2bfe039a-5ba2-4b5a-aa6a-a12347452a77.png">
 
-  Events in JSON format.
+ 
   
 <img width="1470" alt="Screenshot 2023-01-21 at 5 22 26 PM" src="https://user-images.githubusercontent.com/110348583/213865679-0acce7c4-0f77-464c-9ebc-487971aa1b41.png">
+
+Events in JSON format.
 
 ### Video
 
