@@ -60,7 +60,15 @@ curl -X GET http://localhost:8000/rest/v1/calendar/redirect/
 
 [Google Calendar API](https://console.cloud.google.com/marketplace/product/google/calendar-json.googleapis.com?q=search&referrer=search&project=calendarapi-375408&supportedpurview=project) - API used  
 
+### Screenshots
+  <img width="1470" alt="Screenshot 2023-01-21 at 5 22 03 PM" src="https://user-images.githubusercontent.com/110348583/213865666-9c280780-af5b-492d-8429-a2e5e1241245.png">
 
+  
+  <img width="1470" alt="Screenshot 2023-01-21 at 5 22 15 PM" src="https://user-images.githubusercontent.com/110348583/213865673-2bfe039a-5ba2-4b5a-aa6a-a12347452a77.png">
+
+  Events in JSON format.
+  
+<img width="1470" alt="Screenshot 2023-01-21 at 5 22 26 PM" src="https://user-images.githubusercontent.com/110348583/213865679-0acce7c4-0f77-464c-9ebc-487971aa1b41.png">
 
 ### Video
 
