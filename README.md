@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository
-`git clone https://github.com/<your-username>/google-calendar-django-rest-api.git`
+`git clone https://github.com/<your-username>/google-calendar-oauth2--django.git`
 
 2. Create a virtual environment and activate it
 `python3 -m venv myenv
